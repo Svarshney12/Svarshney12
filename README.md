@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt= "coding" width = "300" src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **HTML, CSS, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **subhivarshney012@gmail.com**
 
