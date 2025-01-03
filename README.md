@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ---->
 
 
-<h1 align="center">Hi 👋, Hi 👋! I'm Subhi Varshney, an Associate Consultant at All e Technologies. I specialize in crafting powerful CRM solutions on Microsoft platforms, leveraging my expertise in JavaScript, C#, and the Microsoft Power Platform to drive impactful business transformations. </h1>
+<h1 align="center"> Hi 👋! I'm Subhi Varshney, an Associate Consultant at All e Technologies. I specialize in crafting powerful CRM solutions on Microsoft platforms, leveraging my expertise in JavaScript, C#, and the Microsoft Power Platform to drive impactful business transformations. </h1>
 
 <img align = "right" alt= "coding" width = "300" src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
