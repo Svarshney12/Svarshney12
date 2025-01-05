@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ---->
 
 
-<h1 align="center"> Hi 👋! I'm Subhi Varshney, an Associate Consultant at All e Technologies. </h1>
+<h1 align="center"> Hi 👋! I'm Subhi Varshney </h1>
 
 <img align = "right" alt= "coding" width = "300" src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
