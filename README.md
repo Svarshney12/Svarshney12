@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 <img align = "right" alt= "coding" width = "300" src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
-- 🌱 I’m currently learning **React JS**
+- 🔭 I’m currently working on Microsoft Power Platform
+  
+- 🌱 I’m currently learning ** C#, DotNet**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
